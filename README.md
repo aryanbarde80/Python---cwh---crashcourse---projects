@@ -1,6 +1,6 @@
 # 🌐 My Awesome Webpage - PW SKILLS WEBPAGE
 
-Welcome to the **PW SKILLS WEBPAGE** repository! This project is built with HTML and Tailwind CSS to create a modern, responsive, and visually appealing webpage.
+Welcome to this repository! This project is built with HTML and Tailwind CSS to create a modern, responsive, and visually appealing webpage.
 
 Check out the live demo of the webpage ->> https://aryanbarde80.github.io/tailwind-css-pw/
 
