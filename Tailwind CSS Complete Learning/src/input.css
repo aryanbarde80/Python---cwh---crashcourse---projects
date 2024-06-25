@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*squizzly lines for linting problem*/
+
+/* to remove this go to settings through ctrl+, and search unknown and change it to ignore and the issue is solved*/

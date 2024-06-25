@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body  class="bg-slate-900 grid place-content-center h-screen">
+    <h1 class="text-yellow-400 text-4xl m-6 ">Test</h1> <!--right click here and open with live server ->> a shortcut wayy -->
+    <!--We will be getting auto suggestions while writing classes bcoof the installed extension-->
+    <!--To see changes and not to run command many time to see changes just runn - >> npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch << -  this watches and make changes continuously--->
+    <div class="">
+        <div class="p-6 max-w-sm j bg-white rounded-xl shadow-lg flex items-center space-x-4">
+            <div>
+                <img class="h-12 w-12" src="https://pbs.twimg.com/profile_images/1537452099386359809/GJ9gWSyG_400x400.jpg" alt="">
+            </div>
+            <div>
+                <div class="text-2xl font-medium text-black">
+                    TailWind CSS
+                    <p class="text-slate-500 text-base">By Aryan Barde</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button class="bg-sky-500 text-center mt-2 text-white text-base p-2 rounded-xl hover:bg-white hover:text-black dark:bg-red-600">Buy now</button>
+
+    <div class="text-center my-4">
+        <p class="text-white md:text-green-500 sm:text-red-600">Lorem, ipsum dolor.</p>
+    </div>
+
+    <!-- Making up responsive card for mobile screen as well as big screen -->
+
+    <div class="mt-3">
+        <div class="max-w-sm mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl">
+            <div class="md:flex">
+                <div>
+                    <img class="h-48 w-full object-cover md:h-full md:w-48" src="https://media.istockphoto.com/id/178384762/photo/hiking-in-himalaya-mountains.jpg?s=1024x1024&w=is&k=20&c=UlzfxnvqrcAb8lyb31gUvIy6jr_oKXFcgmUhg5fE3a8=" alt="">
+                </div>
+                <div class="p-8">
+                    <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">An awesome card</div>
+                    <a href="#" class="block mt-1 text-lg font-medium text-black hover:text-blue-700 ">Tailwind CSS is amazing once you understand the <span class="bg-yellow-500 p-[2px] px-[4px]">power</span> of it</a>
+                    <p class="mt-2 text-slate-500">Lorem ipsum dolor sit </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
