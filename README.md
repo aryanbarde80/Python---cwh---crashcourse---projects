@@ -1,5 +1,3 @@
-### This repository contains all my learnings of tailwind CSS.
-
 # 🌐 My Awesome Webpage - PW SKILLS WEBPAGE
 
 Welcome to the **PW SKILLS WEBPAGE** repository! This project is built with HTML and Tailwind CSS to create a modern, responsive, and visually appealing webpage.
@@ -41,5 +39,7 @@ Open the `index.html` file in your browser to view the webpage.
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source commun
+Contributions are what make the open-source community.
+
+### This repository contains all my learnings of tailwind CSS.
 
